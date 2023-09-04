@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>test page</title>
+</head>
+<body>
+<h1> Hi. I'm a big <b> FAT</b> heading. Look at me </h1>
+<p>Hi, I'm a <i>paragraph</i> element! Wow!</p>
+<a href="https://google.com" target="_blank" title="Let's go to Google">Click Me! I'm a Link</a>
+<p> My name is: <br>
+	Kitty Cat</p>
+<img src="img/cat.jpeg">
+</body>
+</html>
